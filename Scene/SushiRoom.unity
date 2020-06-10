@@ -296,72 +296,146 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
---- !u!1001 &3888151204495934825
+--- !u!1001 &2719294867025156837
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2861997750678421322, guid: 40ff3a48bd1c02b43849d3bb00635a5d,
-        type: 3}
-      propertyPath: m_Name
-      value: Lory_SushiRoom
-      objectReference: {fileID: 0}
-    - target: {fileID: 8456812234140867138, guid: 40ff3a48bd1c02b43849d3bb00635a5d,
+    - target: {fileID: 7263622359546854970, guid: 8a1dca37e9dec494299c8e41f1d64b78,
         type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8456812234140867138, guid: 40ff3a48bd1c02b43849d3bb00635a5d,
+    - target: {fileID: 7263622359546854970, guid: 8a1dca37e9dec494299c8e41f1d64b78,
         type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8456812234140867138, guid: 40ff3a48bd1c02b43849d3bb00635a5d,
+    - target: {fileID: 7263622359546854970, guid: 8a1dca37e9dec494299c8e41f1d64b78,
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8456812234140867138, guid: 40ff3a48bd1c02b43849d3bb00635a5d,
+    - target: {fileID: 7263622359546854970, guid: 8a1dca37e9dec494299c8e41f1d64b78,
         type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8456812234140867138, guid: 40ff3a48bd1c02b43849d3bb00635a5d,
+    - target: {fileID: 7263622359546854970, guid: 8a1dca37e9dec494299c8e41f1d64b78,
         type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8456812234140867138, guid: 40ff3a48bd1c02b43849d3bb00635a5d,
+    - target: {fileID: 7263622359546854970, guid: 8a1dca37e9dec494299c8e41f1d64b78,
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8456812234140867138, guid: 40ff3a48bd1c02b43849d3bb00635a5d,
+    - target: {fileID: 7263622359546854970, guid: 8a1dca37e9dec494299c8e41f1d64b78,
         type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 8456812234140867138, guid: 40ff3a48bd1c02b43849d3bb00635a5d,
+    - target: {fileID: 7263622359546854970, guid: 8a1dca37e9dec494299c8e41f1d64b78,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 8456812234140867138, guid: 40ff3a48bd1c02b43849d3bb00635a5d,
+    - target: {fileID: 7263622359546854970, guid: 8a1dca37e9dec494299c8e41f1d64b78,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8456812234140867138, guid: 40ff3a48bd1c02b43849d3bb00635a5d,
+    - target: {fileID: 7263622359546854970, guid: 8a1dca37e9dec494299c8e41f1d64b78,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8456812234140867138, guid: 40ff3a48bd1c02b43849d3bb00635a5d,
+    - target: {fileID: 7263622359546854970, guid: 8a1dca37e9dec494299c8e41f1d64b78,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7300619739372708483, guid: 8a1dca37e9dec494299c8e41f1d64b78,
+        type: 3}
+      propertyPath: m_Name
+      value: SushiRoom_LoryOutsideView
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 40ff3a48bd1c02b43849d3bb00635a5d, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 8a1dca37e9dec494299c8e41f1d64b78, type: 3}
+--- !u!1001 &7593960791255889175
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8820349933918518275, guid: 196727acbdcb3f34e853d0279316491c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820349933918518275, guid: 196727acbdcb3f34e853d0279316491c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820349933918518275, guid: 196727acbdcb3f34e853d0279316491c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820349933918518275, guid: 196727acbdcb3f34e853d0279316491c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820349933918518275, guid: 196727acbdcb3f34e853d0279316491c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820349933918518275, guid: 196727acbdcb3f34e853d0279316491c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820349933918518275, guid: 196727acbdcb3f34e853d0279316491c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820349933918518275, guid: 196727acbdcb3f34e853d0279316491c,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820349933918518275, guid: 196727acbdcb3f34e853d0279316491c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820349933918518275, guid: 196727acbdcb3f34e853d0279316491c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820349933918518275, guid: 196727acbdcb3f34e853d0279316491c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8931972308151984314, guid: 196727acbdcb3f34e853d0279316491c,
+        type: 3}
+      propertyPath: m_Name
+      value: SushiRoom_LoryGameView
+      objectReference: {fileID: 0}
+    - target: {fileID: 8931972308151984314, guid: 196727acbdcb3f34e853d0279316491c,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 196727acbdcb3f34e853d0279316491c, type: 3}
