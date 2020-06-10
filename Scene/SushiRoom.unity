@@ -197,13 +197,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 673377690}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: 0.07764789, y: -0.24940506, z: 0.020066649, w: 0.96507275}
+  m_LocalPosition: {x: 2.16, y: 1.75, z: -2.09}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 9.2, y: -28.98, z: 0}
 --- !u!1 &849550316
 GameObject:
   m_ObjectHideFlags: 0
@@ -363,6 +363,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SushiRoom_LoryOutsideView
       objectReference: {fileID: 0}
+    - target: {fileID: 9166869995809923122, guid: 8a1dca37e9dec494299c8e41f1d64b78,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.3449813
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a1dca37e9dec494299c8e41f1d64b78, type: 3}
 --- !u!1001 &7593960791255889175
@@ -372,6 +377,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6934469503987261163, guid: 196727acbdcb3f34e853d0279316491c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6934469503987261163, guid: 196727acbdcb3f34e853d0279316491c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6934469503987261163, guid: 196727acbdcb3f34e853d0279316491c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8820349933918518275, guid: 196727acbdcb3f34e853d0279316491c,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -435,7 +455,7 @@ PrefabInstance:
     - target: {fileID: 8931972308151984314, guid: 196727acbdcb3f34e853d0279316491c,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 196727acbdcb3f34e853d0279316491c, type: 3}
