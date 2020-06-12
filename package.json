@@ -1,10 +1,10 @@
 {
   "name": "be.coloniuslory.room",
-  "displayName": "room of lory",
+  "displayName": "Lory's SushiRoom",
   "version": "0.0.1",
   "unity": "2018.1",
-  "description": "this is a room",
+  "description": "This is a japanese room, eat sushis and chill",
   "keywords": ["Script","Tool"],
   "category": "Script",
-  "dependencies":{}
+  "dependencies":{"be.eloistree.magicdoorsroompattern":"0.0.1"}
 }
